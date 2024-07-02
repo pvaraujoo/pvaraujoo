@@ -33,6 +33,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pvaraujoo/pvaraujoo/output/snake.svg" alt="Snake animation" />
 
-###

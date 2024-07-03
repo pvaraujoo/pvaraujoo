@@ -21,8 +21,15 @@
   <img src="https://skillicons.dev/icons?i=css" height="37" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="37" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
 </div>
-<h2 dir="auto"></h2>
+
+###
+
+<p align="left">Social</p>
 
 ###
 
@@ -33,5 +40,3 @@
 </div>
 
 ###
-
-
